@@ -1,0 +1,17 @@
+{
+    "pluginName": "getIp",
+    "description": "获取本机ip地址，方便联调",
+    "version": "0.0.1",
+    "logo": "logo.png",
+    "preload": "preload.js",
+    "features": [
+        {
+            "code": "ip",
+            "explain": "获取本机ip",
+            "cmds": [
+                "ip",
+                "获取本机ip"
+            ]
+        }
+    ]
+}
